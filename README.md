@@ -1,2 +1,2 @@
 # gainsmaxx-website
-Homepage for Gainsmaxx
+GainsMaxx's online presence
